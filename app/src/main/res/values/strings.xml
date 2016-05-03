@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My UsbSerial</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="serial_port">MTU Sniffer</string>
+
+</resources>
